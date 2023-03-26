@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Vende-se Apartamento"
+subtitle: |
+  Lindo imóvel de dois quartos no Condomínio Brisa do Vale, em Macaé.
+content : |
+  Localizado em rua sem saída, no segundo andar. Com sacada e vaga de garagem. Todo reformado, piso em porcelanato polido no apartamento inteiro, móveis planejados instalados na cozinha, quartos e sala.
+button:
+  label : "Veja mais!"
+  link : "#first-spotlight"
+image : "images/apto/fulls/IMG-20201210-WA0016.jpg"
+

@@ -1,0 +1,7 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first-spotlight"
+title : "Cozinha planejada"
+content: |
+  Cozinha completa com gás encanado e móveis planejados já instalados, diversos armários e gavetas, despensa e pequena adega.
+image: "images/apto/fulls/IMG-20201210-WA0016.jpg"

@@ -1,0 +1,59 @@
+title: "Galeria de fotos"
+style: "style2 medium lightbox onscroll-fade-in"
+id: "first-spotlight"
+content: |
+  Veja abaixo mais algumas fotos do apartamento quando decorado.
+pictures:
+  - title: "Sala"
+    content: "Sala aconchegante com painel planejado, com boa iluminação natural vinda da sacada."
+    image: "images/apto/fulls/IMG-20201210-WA0006.jpg"
+    thumb: "images/apto/thumbs/IMG-20201210-WA0006.jpg"
+    button: "Ampliar foto"
+  
+  - title: "Cozinha"
+    content: "Cozinha planejada, com armários, despensa e pequena adega, conjugada com área de serviço"
+    image: "images/apto/fulls/IMG-20201210-WA0016.jpg"
+    thumb: "images/apto/thumbs/IMG-20201210-WA0016.jpg"
+    button: "Ampliar foto"
+  
+  - title: "Quarto/Escritório"
+    content: "Quarto/Escritório eficiente com móveis planejados e iluminação natural"
+    image: "images/apto/fulls/IMG-20201210-WA0007.jpg"
+    thumb: "images/apto/thumbs/IMG-20201210-WA0007.jpg"
+    button: "Ampliar foto"
+
+  - title: "Quarto"
+    content: "Quarto com armário planejado embutido"
+    image: "images/apto/fulls/IMG-20201210-WA0011.jpg"
+    thumb: "images/apto/thumbs/IMG-20201210-WA0011.jpg"
+    button: "Ampliar foto"
+
+  - title: "Sacada"
+    content: "Sacada com incidência de sol, ideal para pequenas hortas ou jardins verticais"
+    image: "images/apto/fulls/IMG_20180819_155646.jpg"
+    thumb: "images/apto/thumbs/IMG_20180819_155646.jpg"
+    button: "Ampliar foto"
+
+  - title: "Telas de proteção"
+    content: "As janelas e sacadas são teladas para proteção de crianças e pets"
+    image: "images/apto/fulls/IMG_20201016_172630.jpg"
+    thumb: "images/apto/thumbs/IMG_20201016_172630.jpg"
+    button: "Ampliar foto"
+
+  - title: "Sala (outro ângulo)"
+    content: "Sala aconchegante com painel planejado, com boa iluminação natural vinda da sacada."
+    image: "images/apto/fulls/IMG-20201210-WA0008.jpg"
+    thumb: "images/apto/thumbs/IMG-20201210-WA0008.jpg"
+    button: "Ampliar foto"
+  
+  - title: "Quarto/Escritório (outro ângulo)"
+    content: "Quarto/Escritório eficiente com móveis planejados e iluminação natural"
+    image: "images/apto/fulls/IMG-20201210-WA0009.jpg"
+    thumb: "images/apto/thumbs/IMG-20201210-WA0009.jpg"
+    button: "Ampliar foto"
+
+  - title: "Cozinha (outro ângulo)"
+    content: "Cozinha planejada, com armários, despensa e pequena adega, conjugada com área de serviço"
+    image: "images/apto/fulls/IMG-20201210-WA0010.jpg"
+    thumb: "images/apto/thumbs/IMG-20201210-WA0010.jpg"
+    button: "Ampliar foto"

@@ -1,0 +1,20 @@
+####################### FAQ #########################
+title : "Perguntas Frequentes"
+subtitle: |
+  Veja abaixo a lista das perguntas mais frequentes feitas pelos interessados:
+questions:
+  - question: "Qual o valor de venda do apartamento?"
+    answer: "R$ 100.000,00 (aberto a negociação)."
+
+  - question: "Qual o valor mensal do condomínio?"
+    answer: "Cerca de R$ 240,00, incluso o valor da conta de água."
+
+  - question: "Estou interessado, mas não quero passar o financiamento pro meu nome. Podemos fazer um contrato de gaveta e eu ir pagando suas parcelas até o financiamento acabar?"
+    answer: "Infelizmente não aceitamos esse tipo de negociação, por se tratar de um acordo de risco e não permitido pela Caixa. No entanto, podemos realizar a transferência do financiamento, conforme detalhado abaixo."
+
+  - question: "Como funciona o processo de transferência de financiamento?"
+    answer: "Primeiro o comprador procura a Caixa Econômica com os dados do financiamento atual (que nós forneceremos). Com isso a caixa vai simular um novo financiamento no nome do comprador. Sendo esse financiamento aprovado e assinado, a própria Caixa se encarrega de encerrar o financiamento atual (no nome do vendedor) e repassar o valor restante ao vendedor, encerrando o vínculo do vendedor com o imóvel."
+
+  - question: "O imóvel possui documentação em dia"
+    answer: "Sim. RGI regular e IPTUs pagos."
+

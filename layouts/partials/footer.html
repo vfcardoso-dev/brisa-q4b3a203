@@ -1,0 +1,18 @@
+<!-- Footer -->
+<footer class="wrapper style1 align-center">
+    <div class="inner">
+        <ul class="icons">
+            <li><a href="https://wa.me/55{{ .phone }}" class="button icon brands fa-whatsapp">&nbsp;Entre em contato pelo Whatsapp</a></li>
+        </ul>
+        <p>
+            Hugo Story &copy; 2020 <a target="_blank" href="https://github.com/caressofsteel/">CaressOfSteel</a>
+            <span class="footerspacer icon fa-diamond"></span>
+            Ported from <a target="_blank" href="https://html5up.net/uploads/demos/story/">Story</a> by <a href="{{ .authorlink }}">{{ .authorname }}</a>
+        </p>
+    </div>
+</footer>
+
+<!-- FontAwesome JS -->
+{{ range .Site.Params.asset.fontawesome_js -}}
+    <script type="text/javascript" src="{{ . | absURL }}"></script>
+{{- end }}

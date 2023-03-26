@@ -1,0 +1,40 @@
+title : "Outras características"
+content: |
+  Abaixo uma lista das principais características do apartamento.
+style: "style1 medium onscroll-fade-in"
+items:
+  - name : "Espaço"
+    content : "Apartamento de 45m2 com dois quartos, sala, pequena sacada, banheiro e cozinha/área de serviço"
+  
+  - name : "Segurança"
+    content : "Portaria com guarita, seguranças em rondas de moto constantes. Crianças na rua até tarde."
+
+  - name : "Transporte público"
+    content : "Ponto final da linha T22 da SIT fica junto à portaria, com acesso conveniente."
+
+  - name : "Móveis planejados"
+    content : "Móveis planejados instalados na cozinha, sala e nos dois quartos."
+
+  - name : "Porcelanato"
+    content : "Todo o apartamento coberto com piso em porcelanato polido de alto padrão."
+
+  - name : "Gás encanado"
+    content : "Não precisa mais se preocupar com botijões. Economia na conta de luz com chuveiro à gás."  
+
+  - name : "Sacada"
+    content : "Pequena sacada que amplia o espaço da sala e aumenta a iluminação."
+
+  - name : "Vaga de garagem"
+    content : "Uma vaga fixa de garagem por apartamento."
+
+  - name : "Áreas de lazer"
+    content : "Churrasqueira e parquinho disponíveis para os condôminos."
+
+  - name : "Fibra ótica"
+    content : "Conexão de internet de fibra ótica chegando dentro do apartamento."
+    
+  - name : "Sossego"
+    content : "Não há circulação de ônibus dentro do condomínio. Só dá pra ouvir a natureza e crianças brincando."
+
+  - name : "Próximo à natureza"
+    content : "Entorno do imóvel arborizado. Ouça os passarinhos."

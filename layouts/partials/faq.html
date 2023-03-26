@@ -1,0 +1,27 @@
+				<!-- Additional Elements -->
+                <section class="wrapper style1 align-center">
+                    <div class="inner">
+                        <div class="index align-left">
+
+                                <section>
+                                    <header>
+                                        <h3>{{ .title }}</h3>
+                                    </header>
+                                    <div class="content">
+
+                                        {{ range .questions }}
+                                            
+                                            <dl>
+                                                <dt>{{ .question }}</dt>    
+                                                <dd>
+                                                    <p>{{ .answer }}</p>
+                                                </dd>
+                                            </dl>
+
+                                        {{ end }}
+                                        
+                                    </div>
+                                </section>
+                        </div>
+                    </div>
+                </section>
